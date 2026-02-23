@@ -1,0 +1,2 @@
+title: Demo notes repo
+theme: https://pages-themes.github.io/architect/
